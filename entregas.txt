@@ -1,0 +1,12 @@
+1,João Silva,Rua das Flores,123,Recusada,1
+2,Maria Oliveira,Avenida Paulista,456,Retornado ao vendedor,3
+3,Carlos Pereira,Rua das Acácias,789,Concluída,1
+4,Ana Costa,Rua dos Limoeiros,101,Concluída,3
+5,Pedro Henrique de Paula,Rua 880,380,Concluída,2
+6,João Guilherme,Rua 266,48,Cliente não localizado,1
+7,Luiza Martins,Rua das Palmeiras,22,Endereço não localizado,2
+8,Fernando Santos,Rua do Bosque,55,Concluída,1
+9,Ricardo Gomes,Avenida Central,999,Concluída,1
+10,Mariana Albuquerque,Rua Nova,77,Cliente não localizado,2
+11,Paula Mendes,Rua Antiga,88,Endereço não localizado,2
+12,Thiago Souza,Rua das Laranjeiras,1010,Retornado ao vendedor,3
